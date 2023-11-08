@@ -1,4 +1,4 @@
-# Surfboard_Prediction_AI
+# Machine Learning for Surfboard Model Prediction
 
 # Project description:
 In this project a Machine Learning programme was developed to predict which type of surfboard would suit the best for a specific person depending on different parameters such as the features of the person (surfing level, age, fitness, height, weight) and the size of waves.
